@@ -15,7 +15,7 @@ Carpeta guardada con git.
 * **git checkout 30077fac96c3877c83e5ed8cb3551a42ce0b6fbd** para crear una rama a partir de un punto dado, en este caso desde el inicio
 * **git switch master** para volver a master
 * **git branch** para ver ramas
-* **git remote add origin https://github.com/GerardoSalvador/Introduccion-a-Linux.git** para sincronizar con un repositorio de github
+* **git remote add origin "Direccion Url del proyecto"** para sincronizar con un repositorio de github
 * **git push origin master**
 
 ## Temas 1
