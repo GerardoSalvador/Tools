@@ -1,4 +1,6 @@
-# Introducción a Linux
+# Utilidades y herramientas
+
+## Git y github
 
 Carpeta guardada con git.
 
@@ -17,9 +19,3 @@ Carpeta guardada con git.
 * **git branch** para ver ramas
 * **git remote add origin "Direccion Url del proyecto"** para sincronizar con un repositorio de github
 * **git push origin master**
-
-## Temas 1
-
-### Subtema 1
-
-Esta es una prueba
