@@ -2,6 +2,25 @@
 
 ## Git y github
 
+### Curso de Git con SoyDalto
+
+#### Configuración de Git
+
+[Uso de Git](https://www.youtube.com/watch?v=9ZJ-K-zk_Go&t=307s)
+
+Minuto 15:23
+
+* Ir a descargar Git para el S.O. que tengamos
+* Definir nuestro alias y correo
+  * Sistema:
+  * Global:
+    * git config --global user.name "Nombre de persona que usará Git"
+    * git config --global user.email "correo"
+  * Local ->
+* Para ver las configuraciones que hemos hecho en nuestras configuraciones
+  * git config list
+  * git config --global --list
+
 Carpeta guardada con git.
 
 * Ir a la carpeta con la que deseamos trabajar con git
